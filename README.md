@@ -7,7 +7,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-
+123
 ## 使用前准备
 
 1. 确保已安装并运行Ollama
