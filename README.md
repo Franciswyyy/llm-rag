@@ -8,7 +8,7 @@
 pip install -r requirements.txt
 ```
 123
-## 使用前准备
+## 使用前准备1
 
 1. 确保已安装并运行Ollama
 2. 下载所需模型：
