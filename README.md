@@ -3,7 +3,7 @@
 这是一个基于LangChain和Ollama的RAG（检索增强生成）知识库构建项目。
 
 ## 安装依赖
-123
+123123
 ```bash
 pip install -r requirements.txt
 ```123
